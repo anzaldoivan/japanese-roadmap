@@ -1,22 +1,36 @@
-# Japanese Learning Roadmap: N5 to N2
+# 🎯 Complete Japanese Learning Roadmap: N5 to N2
 
 ## 📚 Your Learning Materials Coverage
 
 ### **Minna No Nihongo Series:**
 - **Minna No Nihongo I** (Basic Level) → **N5 to N4**
+  - File: `dokumen.pub_minna-no-nihongo-i-primer-libro-de-nivel-basico-traduccion-y-notas-gramaticales-4883191346.pdf`
+  - Covers: Basic grammar, vocabulary, and conversation skills
+  - Chapters: 1-50 (25 for N5, 25 for N4)
+
 - **Minna No Nihongo Chukyu 1** (Intermediate Level) → **N3 to N2**
+  - Textbook: `[TEXTBOOK] Minna no Nihongo Chukyu 1 Honsatsu.pdf`
+  - English Translation: `[ENG. TRANS.] Minna no Nihongo Chukyu 1 Translation.pdf`
+  - Workbook: `[WORKBOOK] Minna no Nihongo Chukyu 1 Hyojun Mondaishu.pdf`
+  - Answer Keys: Available for both textbook and workbook
+  - Audio: Available in `[AUDIO] Minna no Nihongo Chukyu CD1/` directory
 
 ### **Tae Kim's Grammar Guide Coverage:**
+- **File:** `JAPANESE TAE KIM.txt` (15,624 lines of comprehensive grammar)
 - **Basic Grammar** (Chapters 1-4) → **N5 to N4**
 - **Essential Grammar** (Chapter 4) → **N4 to N3**
 - **Special Expressions** (Chapter 5) → **N3 to N2**
 - **Advanced Topics** (Chapter 6) → **N2 to N1**
 
+### **Writing System Materials:**
+- **Hiragana and Katakana Booklet:** `Hiragana-and-Katakana-booklet.pdf`
+- **Tae Kim Writing System:** Chapter 2 (The Writing System)
+
 ## 🎯 JLPT Level Breakdown & Timeline
 
 ### **N5 Level (Beginner)**
 **Duration: 4-6 months**
-**Materials: Minna No Nihongo I + Tae Kim Basic Grammar**
+**Materials: Minna No Nihongo I (Chapters 1-25) + Tae Kim Basic Grammar**
 
 **What you'll learn:**
 - Hiragana and Katakana (complete mastery)
@@ -33,9 +47,14 @@
 - Numbers and counting
 - Time expressions
 
+**Material References:**
+- **Minna No Nihongo I:** Chapters 1-25
+- **Tae Kim:** Chapters 2-3 (Writing System & Basic Grammar)
+- **Hiragana Booklet:** Complete mastery
+
 ### **N4 Level (Elementary)**
 **Duration: 6-8 months**
-**Materials: Minna No Nihongo I + Tae Kim Essential Grammar**
+**Materials: Minna No Nihongo I (Chapters 26-50) + Tae Kim Essential Grammar**
 
 **What you'll learn:**
 - Intermediate kanji (300 characters)
@@ -51,9 +70,13 @@
 - Honorific language basics
 - Complex sentence structures
 
+**Material References:**
+- **Minna No Nihongo I:** Chapters 26-50
+- **Tae Kim:** Chapter 4 (Essential Grammar)
+
 ### **N3 Level (Intermediate)**
 **Duration: 8-10 months**
-**Materials: Minna No Nihongo Chukyu 1 + Tae Kim Special Expressions**
+**Materials: Minna No Nihongo Chukyu 1 (Chapters 1-12) + Tae Kim Special Expressions**
 
 **What you'll learn:**
 - Advanced kanji (600 characters)
@@ -68,9 +91,13 @@
 - Newspaper reading ability
 - Formal writing skills
 
+**Material References:**
+- **Minna No Nihongo Chukyu 1:** Textbook chapters 1-12
+- **Tae Kim:** Chapter 5 (Special Expressions)
+
 ### **N2 Level (Upper Intermediate)**
 **Duration: 10-12 months**
-**Materials: Minna No Nihongo Chukyu 1 + Tae Kim Advanced Topics**
+**Materials: Minna No Nihongo Chukyu 1 (Chapters 13-25) + Tae Kim Advanced Topics**
 
 **What you'll learn:**
 - Advanced kanji (1000 characters)
@@ -85,6 +112,10 @@
 - Academic writing
 - News and media comprehension
 
+**Material References:**
+- **Minna No Nihongo Chukyu 1:** Textbook chapters 13-25
+- **Tae Kim:** Chapter 6 (Advanced Topics)
+
 ## 📝 Hiragana & Katakana Learning Plan
 
 ### **Week 1-2: Hiragana Foundation**
@@ -97,10 +128,17 @@
 - Week 2: Master dakuten and handakuten (が、ざ、だ、ば、ぱ)
 
 **Practice Methods:**
-1. Use your Hiragana booklet
+1. Use your Hiragana booklet (`Hiragana-and-Katakana-booklet.pdf`)
 2. Write each character 10 times daily
 3. Use apps like "Hiragana Pro" or "Japanese"
 4. Practice reading simple words
+
+**Tae Kim References:**
+- Chapter 2.3: Hiragana (page 16)
+- Chapter 2.3.1: The Muddied Sounds (page 18)
+- Chapter 2.3.2: The Small 「や」、「ゆ」、and 「よ」 (page 19)
+- Chapter 2.3.3: The Small 「つ」 (page 20)
+- Chapter 2.3.4: The Long Vowel Sound (page 20)
 
 ### **Week 3-4: Katakana Mastery**
 **Daily Routine (30 minutes):**
@@ -115,6 +153,12 @@
 1. Focus on katakana for foreign words
 2. Practice reading English words in katakana
 3. Use flashcards for memorization
+
+**Tae Kim References:**
+- Chapter 2.4: Katakana (page 20)
+- Chapter 2.4.1: The Long Vowel Sound (page 21)
+- Chapter 2.4.2: The Small 「ア、イ、ウ、エ、オ」 (page 23)
+- Chapter 2.4.3: Some examples of words in Katakana (page 24)
 
 ## 📅 Daily Learning Routine
 
@@ -271,3 +315,22 @@
 **Total estimated time to N2:** 28-36 months (2.5-3 years)
 
 *Note: This timeline assumes 1-2 hours of study daily. Adjust based on your available time and learning pace.*
+
+## 🚀 Getting Started
+
+### **Immediate Next Steps:**
+1. **Start with the Starter Guide** - Follow `Japanese_Learning_Starter_Guide.md`
+2. **Set up your study environment** - Prepare your materials and workspace
+3. **Begin hiragana learning** - Start with characters あ、い、う、え、お
+4. **Track your progress** - Use the provided progress trackers
+5. **Stay consistent** - Even 15 minutes daily will get you far
+
+### **First Week Goals:**
+- Master the first 10 hiragana characters
+- Set up your study routine
+- Familiarize yourself with your materials
+- Create a progress tracking system
+
+---
+
+*This roadmap is designed to work with your specific materials. Each section includes direct references to your files and specific chapters. Adjust the pace based on your learning style and available time.*
