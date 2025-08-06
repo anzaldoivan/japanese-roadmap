@@ -1559,3 +1559,131 @@
 ---
 
 *Your 3-year technical degree may qualify for work visas with proper evaluation, and completing the Licenciatura would provide additional options for IT positions in Japan.*
+
+---
+
+## ⚠️ **Correction: 7-Year Requirement Clarification**
+
+### **🎯 Where the 7-Year Requirement Actually Applies:**
+
+#### **📋 Highly Skilled Professional Visa (高度人材ビザ):**
+- **Points System:** 70+ points required
+- **Work Experience Points:**
+  - **10+ years:** 25 points
+  - **7-9 years:** 20 points
+  - **5-6 years:** 15 points
+  - **3-4 years:** 10 points
+- **Your case:** 5 years = 15 points
+- **Note:** This is for the **points system**, not a visa requirement
+
+#### **📋 Engineer/Specialist Visa (技術・人文知識・国際業務):**
+- **Education:** Bachelor's degree OR equivalent
+- **Experience:** 3+ years (with degree) OR 10+ years (without degree)
+- **Your case:** 5 years + 3-year degree = case-by-case evaluation
+- **Note:** No specific 7-year requirement
+
+#### **📋 Regular Work Visa (一般就労ビザ):**
+- **Education:** Bachelor's degree + 3+ years OR High school + 10+ years
+- **Your case:** 3-year degree + 5 years = case-by-case evaluation
+- **Note:** No specific 7-year requirement
+
+### **🎯 The 7-Year "Target" Explained:**
+
+#### **❌ My Previous Error:**
+- **Incorrect assumption:** I mentioned 7 years as a requirement
+- **Reality:** There's no official 7-year requirement for work visas
+- **Source:** I mistakenly applied points system logic to visa requirements
+
+#### **✅ Actual Requirements:**
+
+##### **For Regular Work Visa:**
+- **With Bachelor's degree:** 3+ years experience
+- **Without Bachelor's degree:** 10+ years experience
+- **With 3-year technical degree:** Case-by-case evaluation
+
+##### **For Engineer/Specialist Visa:**
+- **With Bachelor's degree:** 3+ years experience
+- **Without Bachelor's degree:** 10+ years experience
+- **With 3-year technical degree:** Case-by-case evaluation
+
+##### **For Highly Skilled Professional Visa:**
+- **Points system:** 70+ points total
+- **Work experience:** 5-6 years = 15 points, 7-9 years = 20 points
+- **Your case:** 5 years = 15 points (part of total calculation)
+
+### **🎯 Your Profile Analysis:**
+
+#### **Current Situation:**
+- **Education:** 3-year technical degree
+- **Experience:** 5 years
+- **Certifications:** Azure + ISTQB
+
+#### **Visa Options:**
+
+##### **Regular Work Visa:**
+- **Status:** ⚠️ Case-by-case evaluation needed
+- **Reason:** 3-year degree may need evaluation
+- **Strategy:** Submit for degree evaluation
+
+##### **Engineer/Specialist Visa:**
+- **Status:** ⚠️ Case-by-case evaluation needed
+- **Reason:** 3-year degree may need evaluation
+- **Strategy:** Submit for degree evaluation
+
+##### **Highly Skilled Professional Visa:**
+- **Current points:** ~45/70 (including 15 points for 5 years experience)
+- **To reach 70:** Need additional points (language, certifications, etc.)
+- **7-year target:** Would give you 20 points instead of 15 (5 more points)
+
+### **💡 Corrected Understanding:**
+
+#### **❌ What I Incorrectly Said:**
+- "You need 7 years for work visa"
+- "7 years is a requirement"
+
+#### **✅ What's Actually True:**
+- **No 7-year requirement** for regular work visas
+- **7 years** only matters for Highly Skilled Professional visa points
+- **Your 5 years** may be sufficient with proper degree evaluation
+- **Case-by-case evaluation** determines eligibility
+
+### **🎯 Updated Recommendations:**
+
+#### **Strategy 1: Degree Evaluation (Recommended)**
+- **Submit 3-year degree** for evaluation
+- **Your 5 years experience** may be sufficient
+- **No need to wait** for additional years
+
+#### **Strategy 2: Highly Skilled Professional Visa**
+- **Current:** 45/70 points
+- **With 7 years:** Would be 50/70 points (still need 20 more)
+- **Better strategy:** Get Japanese N2 (+10 points) and English proficiency (+10 points)
+
+#### **Strategy 3: Complete Licenciatura**
+- **Would qualify** for regular work visa immediately
+- **No experience requirement** beyond 3+ years (which you have)
+
+---
+
+## ⚠️ **Important Correction:**
+
+### **🎯 The 7-Year "Requirement" Was Wrong:**
+- **Source:** I incorrectly applied points system logic to visa requirements
+- **Reality:** No official 7-year requirement for work visas
+- **Your situation:** 5 years may be sufficient with proper evaluation
+
+### **💡 What Actually Matters:**
+1. **Degree evaluation** for your 3-year technical degree
+2. **Case-by-case assessment** by immigration authorities
+3. **Skills and experience** matching job requirements
+4. **Professional certifications** strengthening application
+
+### **📋 Corrected Action Plan:**
+1. **Submit degree for evaluation** (don't wait for more years)
+2. **Use your 5 years experience** (may be sufficient)
+3. **Highlight certifications** (Azure + ISTQB)
+4. **Target international companies** (more flexible)
+
+---
+
+*Thank you for questioning this - the 7-year "requirement" was my error. Your 5 years of experience may be sufficient with proper degree evaluation.*
