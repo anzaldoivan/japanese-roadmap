@@ -529,10 +529,11 @@
 - [ ] **Institution recognition** documents
 
 #### **Step 2: Evaluation Services**
-- [ ] **JASSO evaluation** (Japanese government)
-- [ ] **University evaluation** (if applying to specific institutions)
-- [ ] **Professional association** evaluation
-- [ ] **Immigration Services Agency** evaluation
+- [ ] **JASSO evaluation** (Japanese government) - ✅ **Can be done from Argentina**
+- [ ] **University evaluation** (if applying to specific institutions) - ✅ **Can be done from Argentina**
+- [ ] **Professional association** evaluation - ✅ **Can be done from Argentina**
+- [ ] **Immigration Services Agency** evaluation - ✅ **Can be done from Argentina**
+- [ ] **Private evaluation services** - ✅ **Can be done from Argentina**
 
 #### **Step 3: Supporting Evidence**
 - [ ] **Work experience** certificates
@@ -626,50 +627,216 @@
 
 ---
 
-## 💡 **Immediate Action Plan**
+## 📋 **Degree Evaluation Authorities and Process**
 
-### **🎯 Month 1-2: Degree Evaluation**
-1. **Gather all degree documents** and get them translated
-2. **Prepare detailed course descriptions** and credit breakdown
-3. **Submit for JASSO evaluation** (Japanese government)
-4. **Prepare supporting evidence** (work experience, certifications)
+### **🎯 Who is Responsible for Degree Evaluation:**
 
-### **🎯 Month 3-4: Portfolio Development**
-1. **Build strong technical portfolio** with Azure and testing projects
-2. **Create GitHub profile** with code samples
-3. **Document technical achievements** and projects
-4. **Prepare technical resume** highlighting engineering skills
+#### **1. JASSO (Japan Student Services Organization)**
+**Authority:** Japanese government organization
+**Role:** Official evaluation of foreign degrees for Japanese institutions
+**Website:** https://www.jasso.go.jp/
+**Contact:** Available online and by email
+**Process:** ✅ **Can be done from Argentina**
 
-### **🎯 Month 5-6: Job Search**
-1. **Target international companies** first (more flexible)
-2. **Apply for both engineering and communication positions**
-3. **Let job offers determine** visa strategy
-4. **Work with immigration specialists** for evaluation
+#### **2. Immigration Services Agency Japan**
+**Authority:** Japanese government immigration authority
+**Role:** Final authority for visa-related degree evaluations
+**Website:** https://www.isa.go.jp/
+**Contact:** Through Japanese Embassy in Argentina
+**Process:** ✅ **Can be done from Argentina**
+
+#### **3. MEXT (Ministry of Education, Culture, Sports, Science and Technology)**
+**Authority:** Japanese government education ministry
+**Role:** Educational policy and degree recognition
+**Website:** https://www.mext.go.jp/
+**Contact:** Through Japanese Embassy in Argentina
+**Process:** ✅ **Can be done from Argentina**
+
+#### **4. Private Evaluation Services**
+**Authority:** Independent evaluation organizations
+**Role:** Professional degree evaluation services
+**Examples:** World Education Services (WES), Educational Credential Evaluators (ECE)
+**Process:** ✅ **Can be done from Argentina**
+
+### **📞 Contact Information from Argentina:**
+
+#### **🇯🇵 Japanese Embassy in Argentina:**
+- **Address:** Bouchard 547, Piso 17, C1106ABG Buenos Aires
+- **Phone:** +54-11-4318-8200
+- **Email:** info@bu.mofa.go.jp
+- **Website:** https://www.ar.emb-japan.go.jp/
+- **Services:** Document authentication, visa information, degree evaluation guidance
+
+#### **🇦🇷 Argentine Embassy in Japan:**
+- **Address:** 3-3-6 Roppongi, Minato-ku, Tokyo 106-0032
+- **Phone:** +81-3-5420-7107
+- **Email:** embajada@argentina.or.jp
+- **Website:** https://www.argentina.or.jp/
+- **Services:** Document assistance, consular services
+
+---
+
+## 📝 **Degree Evaluation Process from Argentina**
+
+### **🎯 Step-by-Step Process:**
+
+#### **Step 1: Document Preparation (Argentina)**
+- [ ] **Get official transcript** from your institution
+- [ ] **Obtain degree certificate** with apostille
+- [ ] **Translate documents** to Japanese/English
+- [ ] **Notarize translations** in Argentina
+- [ ] **Get embassy certification** if required
+
+#### **Step 2: Initial Consultation (Argentina)**
+- [ ] **Contact Japanese Embassy** in Buenos Aires
+- [ ] **Schedule consultation** about degree evaluation
+- [ ] **Get guidance** on required documents
+- [ ] **Understand evaluation** process and timeline
+
+#### **Step 3: Submit for Evaluation (Argentina)**
+- [ ] **Submit to JASSO** (online/by mail)
+- [ ] **Submit to Immigration Services** (through embassy)
+- [ ] **Submit to private services** (if needed)
+- [ ] **Track evaluation** progress
+
+#### **Step 4: Receive Results (Argentina)**
+- [ ] **Get evaluation results** by mail/email
+- [ ] **Understand qualification** level
+- [ ] **Plan next steps** based on results
+
+### **💰 Costs and Timeline:**
+
+#### **Evaluation Costs:**
+- **JASSO evaluation:** ¥10,000-20,000 (approximately $70-140 USD)
+- **Private evaluation:** $200-400 USD
+- **Translation costs:** $200-500 USD
+- **Apostille costs:** $50-100 USD
+- **Total:** $520-1,140 USD
+
+#### **Timeline:**
+- **Document preparation:** 2-4 weeks
+- **Evaluation process:** 2-6 months
+- **Total timeline:** 3-7 months
+
+---
+
+## 🎯 **Specific Evaluation Authorities for Your Degree**
+
+### **🎓 JASSO Evaluation (Recommended First Step):**
+
+#### **Process:**
+1. **Visit JASSO website:** https://www.jasso.go.jp/
+2. **Download application form** for degree evaluation
+3. **Prepare required documents:**
+   - Official transcript (translated)
+   - Degree certificate (apostilled)
+   - Course descriptions (translated)
+   - Institution recognition documents
+4. **Submit application** online or by mail
+5. **Pay evaluation fee** (¥10,000-20,000)
+6. **Wait for results** (2-6 months)
+
+#### **Evaluation Criteria:**
+- **Course content** and credit hours
+- **Institution recognition** and accreditation
+- **Degree level** and duration
+- **Field relevance** to Japanese standards
+
+#### **Possible Outcomes:**
+- **Equivalent to 4-year degree:** ✅ Qualifies for Engineer visa
+- **Equivalent to 2-3 year degree:** ⚠️ May qualify with work experience
+- **Not equivalent:** ❌ Does not qualify for Engineer visa
+
+### **🏢 Immigration Services Agency Evaluation:**
+
+#### **Process:**
+1. **Contact Japanese Embassy** in Argentina
+2. **Get guidance** on Immigration Services evaluation
+3. **Submit documents** through embassy
+4. **Wait for evaluation** (3-6 months)
+5. **Receive results** and guidance
+
+#### **Evaluation Focus:**
+- **Visa eligibility** for specific categories
+- **Work permit** requirements
+- **Degree recognition** for employment
+
+### **🎓 University-Specific Evaluation:**
+
+#### **Process:**
+1. **Identify target companies** and their requirements
+2. **Contact universities** associated with those companies
+3. **Submit degree** for university evaluation
+4. **Get university-specific** recognition
+5. **Use university evaluation** for job applications
+
+---
+
+## 💡 **Strategic Recommendations**
+
+### **🎯 Recommended Approach:**
+
+#### **Phase 1: JASSO Evaluation (Months 1-3)**
+1. **Submit degree** to JASSO for evaluation
+2. **Get official assessment** of degree level
+3. **Understand qualification** for different visa types
+4. **Plan strategy** based on results
+
+#### **Phase 2: Immigration Services Evaluation (Months 2-4)**
+1. **Submit degree** to Immigration Services
+2. **Get visa-specific** evaluation
+3. **Understand visa eligibility** for different categories
+4. **Plan application** strategy
+
+#### **Phase 3: Job Search Preparation (Months 3-6)**
+1. **Prepare portfolio** based on evaluation results
+2. **Target companies** appropriate for your qualification level
+3. **Prepare applications** for both visa types
+4. **Network with Japanese** companies and professionals
+
+### **📋 Document Preparation Checklist:**
+
+#### **Required Documents:**
+- [ ] **Official transcript** (original + translated)
+- [ ] **Degree certificate** (apostilled + translated)
+- [ ] **Course descriptions** (detailed + translated)
+- [ ] **Credit hours breakdown** (translated)
+- [ ] **Institution recognition** documents
+- [ ] **Professional certifications** (Azure + ISTQB)
+- [ ] **Work experience** certificates
+- [ ] **Portfolio** of technical projects
+
+#### **Translation Requirements:**
+- [ ] **Professional translation** to Japanese or English
+- [ ] **Notarization** of translations
+- [ ] **Embassy certification** (if required)
+- [ ] **Apostille** for original documents
 
 ---
 
 ## ⚠️ **Important Considerations**
 
 ### **🎯 Key Success Factors:**
-1. **Strong technical portfolio** demonstrating software development skills
-2. **Professional certifications** (Azure + ISTQB) strengthen application
-3. **Relevant work experience** in software development/QA
-4. **Degree evaluation** showing equivalence to 4-year degree
-5. **Company sponsorship** from reputable employer
+1. **Complete documentation** with all required materials
+2. **Professional translations** by certified translators
+3. **Proper authentication** (apostille, notarization)
+4. **Clear course descriptions** showing technical content
+5. **Supporting evidence** (certifications, work experience)
 
-### **💼 Alternative Pathways:**
-1. **Student visa** → Language school → Work visa
-2. **Working holiday visa** (if eligible) → Work visa
-3. **Business visa** → Work visa (for entrepreneurs)
-4. **Family visa** → Work visa (if applicable)
+### **💼 Alternative Strategies:**
+1. **Start with JASSO evaluation** (most comprehensive)
+2. **Use evaluation results** to plan visa strategy
+3. **Consider Specialist in Humanities** visa as backup
+4. **Target companies** that accept your degree level
+5. **Work with immigration specialists** for guidance
 
-### **📋 Document Preparation:**
-1. **Complete degree documentation** with translations
-2. **Detailed course descriptions** and credit breakdown
-3. **Professional experience** certificates
-4. **Portfolio of projects** and achievements
-5. **Industry certifications** and training records
+### **📞 Support Resources:**
+1. **Japanese Embassy** in Argentina (primary contact)
+2. **Argentine Embassy** in Japan (secondary contact)
+3. **JASSO online resources** and guidance
+4. **Immigration Services** information and forms
+5. **Professional evaluation services** for additional support
 
 ---
 
-*This updated analysis shows that while your technical degree may qualify for Engineer visa with evaluation, you have strong backup options with your communication degree and certifications.*
+*This process can be completed entirely from Argentina, with proper document preparation and submission through official channels.*
