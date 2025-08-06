@@ -576,3 +576,368 @@
 ---
 
 *This investigation guide provides comprehensive information for Argentinian citizens planning to study Japanese in Japan. Always verify current information with official sources before making decisions.*
+
+---
+
+## 💼 **Work Visa for Argentinian Software Developers**
+
+### **🎯 Overview:**
+Argentinian citizens with software development experience can apply for work visas in Japan through several pathways. The most common for IT professionals is the **Engineer/Specialist in Humanities/International Services** visa.
+
+---
+
+## 📋 **Visa Types for Software Developers**
+
+### **🔧 Engineer/Specialist in Humanities/International Services Visa**
+**Duration:** 1-5 years (renewable)
+**Requirements:**
+- **Bachelor's degree** in computer science, engineering, or related field
+- **5+ years** of relevant work experience
+- **Job offer** from Japanese company
+- **Salary:** Minimum ¥300,000/month (varies by region)
+- **Language:** Japanese not required for IT positions (English acceptable)
+
+### **🎓 Highly Skilled Professional Visa**
+**Duration:** 5 years (with fast-track to permanent residence)
+**Requirements:**
+- **Advanced degree** (Master's/PhD) OR
+- **10+ years** of specialized experience
+- **High salary** (¥400,000+/month)
+- **Points system** (70+ points required)
+- **Fast-track benefits:** 1 year for permanent residence
+
+### **🏢 Business Manager Visa**
+**Duration:** 1-5 years
+**Requirements:**
+- **Investment** of ¥5 million+ in Japanese business
+- **Business plan** and office space
+- **Job creation** for Japanese citizens
+- **Suitable for:** Entrepreneurs starting IT companies
+
+---
+
+## 📊 **Points System for Highly Skilled Professionals**
+
+### **🎓 Academic Background:**
+- **PhD:** 30 points
+- **Master's degree:** 20 points
+- **Bachelor's degree:** 10 points
+- **Top 100 university:** +10 points
+
+### **💼 Work Experience:**
+- **10+ years:** 25 points
+- **7-9 years:** 20 points
+- **5-6 years:** 15 points
+- **3-4 years:** 10 points
+
+### **💰 Salary:**
+- **¥40 million+/year:** 40 points
+- **¥30-40 million/year:** 25 points
+- **¥25-30 million/year:** 20 points
+- **¥20-25 million/year:** 15 points
+
+### **🏆 Additional Points:**
+- **Age 29 or younger:** 10 points
+- **Age 30-34:** 5 points
+- **Japanese language N1:** 15 points
+- **Japanese language N2:** 10 points
+- **English language:** 10 points
+- **Research achievements:** 20 points
+
+---
+
+## 🎯 **Requirements for Software Developers (5 YoE)**
+
+### **📚 Educational Requirements:**
+- **Minimum:** Bachelor's degree in computer science, software engineering, or related field
+- **Preferred:** Master's degree for higher positions
+- **Alternative:** 10+ years of experience without degree (case-by-case)
+
+### **💼 Work Experience Requirements:**
+- **Minimum:** 3 years of relevant experience
+- **Your case:** 5 years (✅ meets requirement)
+- **Preferred:** Experience with Japanese companies or international projects
+- **Skills in demand:** 
+  - Full-stack development
+  - Cloud computing (AWS, Azure, GCP)
+  - Mobile development (iOS/Android)
+  - AI/ML development
+  - DevOps and CI/CD
+
+### **💰 Salary Requirements:**
+- **Tokyo:** ¥350,000-600,000/month
+- **Osaka:** ¥300,000-500,000/month
+- **Other cities:** ¥280,000-450,000/month
+- **Minimum for visa:** ¥300,000/month
+
+### **🌐 Language Requirements:**
+- **Japanese:** Not required for IT positions
+- **English:** Fluent (business level)
+- **Preferred:** Basic Japanese (N3-N2 level)
+- **Bonus:** Japanese language skills increase salary potential
+
+---
+
+## 🏢 **Job Market for Software Developers**
+
+### **🏙️ Tokyo (Most Opportunities):**
+- **Major companies:** Google, Amazon, Microsoft, Rakuten, LINE
+- **Startups:** Mercari, SmartNews, Preferred Networks
+- **Salary range:** ¥400,000-800,000/month
+- **Competition:** High
+- **Cost of living:** Highest
+
+### **🏙️ Osaka (Growing Market):**
+- **Major companies:** Panasonic, Sharp, NTT Data
+- **Startups:** Growing tech scene
+- **Salary range:** ¥350,000-600,000/month
+- **Competition:** Medium
+- **Cost of living:** 20-30% lower than Tokyo
+
+### **🏙️ Other Cities:**
+- **Kyoto:** Gaming companies, research institutions
+- **Fukuoka:** Growing startup ecosystem
+- **Nagoya:** Automotive and manufacturing IT
+- **Sapporo:** Limited but growing opportunities
+
+---
+
+## 📝 **Application Process**
+
+### **📅 Timeline (3-6 months):**
+
+#### **Month 1-2: Preparation**
+- [ ] Update resume/CV (Japanese format)
+- [ ] Gather educational documents
+- [ ] Get work experience certificates
+- [ ] Research target companies
+- [ ] Prepare portfolio/projects
+
+#### **Month 3-4: Job Search**
+- [ ] Apply to Japanese companies
+- [ ] Attend interviews (online/onsite)
+- [ ] Negotiate salary and benefits
+- [ ] Receive job offer
+- [ ] Sign employment contract
+
+#### **Month 5-6: Visa Application**
+- [ ] Company applies for Certificate of Eligibility (CoE)
+- [ ] Wait for CoE approval (1-3 months)
+- [ ] Apply for work visa at Japanese Embassy
+- [ ] Receive visa approval
+- [ ] Enter Japan within 3 months
+
+### **📋 Required Documents:**
+
+#### **For CoE Application (by employer):**
+- **Application form** for Certificate of Eligibility
+- **Employment contract**
+- **Company registration** and financial documents
+- **Job description** and requirements
+- **Salary details** and benefits
+
+#### **For Visa Application (by applicant):**
+- **Valid passport** (6+ months validity)
+- **Visa application form**
+- **Certificate of Eligibility** (CoE)
+- **Passport photos** (4.5cm x 3.5cm)
+- **Application fee:** ¥3,000
+
+#### **Supporting Documents:**
+- **University diploma** (translated to Japanese/English)
+- **Academic transcripts** (translated)
+- **Work experience certificates** (translated)
+- **Resume/CV** (Japanese format)
+- **Portfolio** of projects (for developers)
+
+---
+
+## 🎯 **Recommended Companies for Argentinian Developers**
+
+### **🏢 International Companies (English-friendly):**
+1. **Google Japan**
+   - **Location:** Tokyo
+   - **Salary:** ¥600,000-1,200,000/month
+   - **Language:** English
+   - **Benefits:** Excellent
+
+2. **Amazon Japan**
+   - **Location:** Tokyo
+   - **Salary:** ¥500,000-1,000,000/month
+   - **Language:** English
+   - **Benefits:** Good
+
+3. **Microsoft Japan**
+   - **Location:** Tokyo
+   - **Salary:** ¥550,000-1,100,000/month
+   - **Language:** English
+   - **Benefits:** Excellent
+
+### **🏢 Japanese Companies (Japanese preferred):**
+1. **Rakuten**
+   - **Location:** Tokyo
+   - **Salary:** ¥400,000-700,000/month
+   - **Language:** English/Japanese
+   - **Benefits:** Good
+
+2. **LINE Corporation**
+   - **Location:** Tokyo
+   - **Salary:** ¥450,000-800,000/month
+   - **Language:** English/Japanese
+   - **Benefits:** Excellent
+
+3. **Mercari**
+   - **Location:** Tokyo
+   - **Salary:** ¥500,000-900,000/month
+   - **Language:** English/Japanese
+   - **Benefits:** Good
+
+### **🏢 Startups:**
+1. **Preferred Networks**
+   - **Location:** Tokyo
+   - **Focus:** AI/ML
+   - **Salary:** ¥400,000-700,000/month
+
+2. **SmartNews**
+   - **Location:** Tokyo
+   - **Focus:** News aggregation
+   - **Salary:** ¥450,000-750,000/month
+
+---
+
+## 💡 **Application Strategy for Software Developers**
+
+### **🎯 Preparation Phase (3-6 months before):**
+
+#### **Technical Skills:**
+- [ ] **Master in-demand technologies:**
+  - **Frontend:** React, Vue.js, Angular
+  - **Backend:** Node.js, Python, Java, Go
+  - **Database:** PostgreSQL, MySQL, MongoDB
+  - **Cloud:** AWS, Azure, GCP
+  - **DevOps:** Docker, Kubernetes, CI/CD
+  - **Mobile:** React Native, Flutter, native iOS/Android
+
+#### **Language Skills:**
+- [ ] **Improve English** (business level required)
+- [ ] **Learn basic Japanese** (N3 level recommended)
+- [ ] **Practice technical interviews** in English
+- [ ] **Prepare portfolio** with GitHub projects
+
+#### **Documentation:**
+- [ ] **Update resume** (Japanese format)
+- [ ] **Translate documents** (diploma, certificates)
+- [ ] **Prepare work portfolio** with code samples
+- [ ] **Get reference letters** from previous employers
+
+### **🎯 Job Search Phase:**
+
+#### **Online Platforms:**
+- **LinkedIn Japan**
+- **Wantedly** (Japanese startup jobs)
+- **Green** (Japanese tech jobs)
+- **Indeed Japan**
+- **Glassdoor Japan**
+
+#### **Recruitment Agencies:**
+- **Robert Walters Japan**
+- **Michael Page Japan**
+- **Hays Japan**
+- **Pasona Tech**
+
+#### **Direct Applications:**
+- **Company career pages**
+- **Tech conferences** and meetups
+- **Professional networking** events
+
+### **🎯 Interview Preparation:**
+
+#### **Technical Interviews:**
+- **Coding challenges** (LeetCode, HackerRank)
+- **System design** questions
+- **Algorithm** and data structure problems
+- **Framework-specific** questions
+
+#### **Cultural Interviews:**
+- **Japanese business** etiquette
+- **Teamwork** and collaboration
+- **Problem-solving** approach
+- **Career goals** and motivation
+
+---
+
+## 💰 **Salary and Benefits Comparison**
+
+### **💰 Salary Ranges by Experience:**
+
+#### **5 Years Experience:**
+- **Tokyo:** ¥500,000-700,000/month
+- **Osaka:** ¥450,000-600,000/month
+- **Other cities:** ¥400,000-550,000/month
+
+#### **7-10 Years Experience:**
+- **Tokyo:** ¥600,000-900,000/month
+- **Osaka:** ¥550,000-750,000/month
+- **Other cities:** ¥500,000-700,000/month
+
+#### **10+ Years Experience:**
+- **Tokyo:** ¥700,000-1,200,000/month
+- **Osaka:** ¥650,000-1,000,000/month
+- **Other cities:** ¥600,000-900,000/month
+
+### **🏥 Benefits Package:**
+- **Health insurance** (mandatory)
+- **Pension** contributions
+- **Unemployment** insurance
+- **Annual bonus** (1-6 months salary)
+- **Transportation** allowance
+- **Housing** allowance (some companies)
+- **Professional development** budget
+
+### **💰 Cost of Living vs Salary:**
+
+#### **Tokyo (Monthly):**
+- **Salary:** ¥500,000-700,000
+- **Living expenses:** ¥200,000-300,000
+- **Savings potential:** ¥200,000-400,000
+
+#### **Osaka (Monthly):**
+- **Salary:** ¥450,000-600,000
+- **Living expenses:** ¥150,000-250,000
+- **Savings potential:** ¥200,000-350,000
+
+---
+
+## ⚠️ **Important Considerations**
+
+### **🎯 Visa Success Factors:**
+1. **Strong technical skills** and portfolio
+2. **Relevant work experience** (5+ years ✅)
+3. **Educational background** (Bachelor's degree minimum)
+4. **Job offer** from reputable company
+5. **Competitive salary** (above minimum requirements)
+
+### **💼 Career Development:**
+1. **Continuous learning** (new technologies)
+2. **Japanese language** improvement
+3. **Professional networking** in Japan
+4. **Industry certifications** (AWS, Azure, etc.)
+5. **Contribution to open source** projects
+
+### **🏠 Living Considerations:**
+1. **Housing costs** vary significantly by region
+2. **Work-life balance** (Japanese companies improving)
+3. **Healthcare** system (excellent but expensive)
+4. **Tax obligations** (progressive system)
+5. **Cultural adjustment** period (6-12 months)
+
+### **📈 Long-term Planning:**
+1. **Permanent residence** (after 10 years)
+2. **Japanese citizenship** (after 5 years of PR)
+3. **Career advancement** opportunities
+4. **Entrepreneurship** possibilities
+5. **Return to Argentina** with experience
+
+---
+
+*This work visa guide provides comprehensive information for Argentinian software developers seeking employment in Japan. Always verify current requirements with official sources before applying.*
