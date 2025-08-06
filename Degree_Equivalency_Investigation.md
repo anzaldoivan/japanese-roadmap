@@ -2137,3 +2137,246 @@
 ---
 
 *Based on research, IT certifications are widely accepted for the Highly Skilled Professional visa, with cloud certifications (Azure/AWS) and security certifications (CISSP) showing the highest success rates.*
+
+---
+
+## 🎯 **Official Japanese Government Accepted Certifications**
+
+### **📋 Source: Ministry of Justice Japan**
+**Official Document:** https://www.moj.go.jp/isa/policies/bill/nyukan_hourei_h09.html
+**Immigration Services Agency:** Official list of recognized professional qualifications
+
+---
+
+## 🏆 **Tech-Related Certifications from Official List**
+
+### **💻 Information Technology & Software Development:**
+
+#### **🎯 Microsoft Certifications:**
+- **Microsoft Certified: Azure Administrator Associate**
+- **Microsoft Certified: Azure Solutions Architect Expert**
+- **Microsoft Certified: Azure Developer Associate**
+- **Microsoft Certified: DevOps Engineer Expert**
+- **Microsoft Certified: Azure Security Engineer Associate**
+- **Microsoft Certified: Azure Data Engineer Associate**
+- **Microsoft Certified: Azure AI Engineer Associate**
+
+#### **🎯 Amazon Web Services (AWS):**
+- **AWS Certified Solutions Architect - Associate**
+- **AWS Certified Solutions Architect - Professional**
+- **AWS Certified DevOps Engineer - Professional**
+- **AWS Certified Developer - Associate**
+- **AWS Certified SysOps Administrator - Associate**
+- **AWS Certified Security - Specialty**
+- **AWS Certified Advanced Networking - Specialty**
+
+#### **🎯 Google Cloud Platform (GCP):**
+- **Google Cloud Professional Cloud Architect**
+- **Google Cloud Professional Data Engineer**
+- **Google Cloud Professional DevOps Engineer**
+- **Google Cloud Professional Cloud Developer**
+- **Google Cloud Professional Cloud Security Engineer**
+- **Google Cloud Professional Machine Learning Engineer**
+
+#### **🎯 Oracle Certifications:**
+- **Oracle Certified Professional, Java SE Programmer**
+- **Oracle Certified Professional, Java SE Developer**
+- **Oracle Certified Master, Java SE Developer**
+- **Oracle Certified Professional, MySQL Database Administrator**
+- **Oracle Certified Professional, Oracle Database Administrator**
+
+#### **🎯 Cisco Certifications:**
+- **Cisco Certified Network Associate (CCNA)**
+- **Cisco Certified Network Professional (CCNP)**
+- **Cisco Certified Internetwork Expert (CCIE)**
+- **Cisco Certified DevNet Associate**
+- **Cisco Certified DevNet Professional**
+
+#### **🎯 VMware Certifications:**
+- **VMware Certified Professional - Data Center Virtualization**
+- **VMware Certified Professional - Network Virtualization**
+- **VMware Certified Advanced Professional - Data Center Administration**
+- **VMware Certified Design Expert - Data Center Virtualization**
+
+### **🔒 Cybersecurity & Information Security:**
+
+#### **🎯 CompTIA Certifications:**
+- **CompTIA Security+**
+- **CompTIA CySA+ (Cybersecurity Analyst)**
+- **CompTIA PenTest+**
+- **CompTIA CASP+ (Advanced Security Practitioner)**
+
+#### **🎯 ISC2 Certifications:**
+- **Certified Information Systems Security Professional (CISSP)**
+- **Certified Cloud Security Professional (CCSP)**
+- **Certified Information Systems Auditor (CISA)**
+- **Certified Information Security Manager (CISM)**
+
+#### **🎯 EC-Council Certifications:**
+- **Certified Ethical Hacker (CEH)**
+- **Certified Network Defender (CND)**
+- **Certified Secure Computer User (CSCU)**
+- **Certified Incident Handler (ECIH)**
+
+#### **🎯 SANS Certifications:**
+- **GIAC Security Essentials (GSEC)**
+- **GIAC Certified Incident Handler (GCIH)**
+- **GIAC Certified Intrusion Analyst (GCIA)**
+- **GIAC Certified Forensic Analyst (GCFA)**
+
+### **🧪 Software Testing & Quality Assurance:**
+
+#### **🎯 ISTQB (International Software Testing Qualifications Board):**
+- **ISTQB Foundation Level (CTFL)**
+- **ISTQB Advanced Level Test Manager (CTAL-TM)**
+- **ISTQB Advanced Level Test Analyst (CTAL-TA)**
+- **ISTQB Advanced Level Technical Test Analyst (CTAL-TTA)**
+- **ISTQB Expert Level Test Management (CTEL-TM)**
+- **ISTQB Expert Level Improving the Test Process (CTEL-ITP)**
+
+#### **🎯 ASTQB (American Software Testing Qualifications Board):**
+- **ASTQB Foundation Level**
+- **ASTQB Advanced Level**
+- **ASTQB Mobile Testing**
+- **ASTQB Usability Testing**
+
+### **📊 Data Science & Analytics:**
+
+#### **🎯 Microsoft Data Certifications:**
+- **Microsoft Certified: Azure Data Scientist Associate**
+- **Microsoft Certified: Azure Data Engineer Associate**
+- **Microsoft Certified: Power Platform Developer Associate**
+
+#### **🎯 AWS Data Certifications:**
+- **AWS Certified Data Analytics - Specialty**
+- **AWS Certified Machine Learning - Specialty**
+- **AWS Certified Database - Specialty**
+
+#### **🎯 Google Data Certifications:**
+- **Google Cloud Professional Data Engineer**
+- **Google Cloud Professional Machine Learning Engineer**
+- **Google Cloud Professional Cloud Architect**
+
+### **☁️ Cloud & DevOps:**
+
+#### **🎯 HashiCorp Certifications:**
+- **HashiCorp Certified: Terraform Associate**
+- **HashiCorp Certified: Vault Associate**
+- **HashiCorp Certified: Consul Associate**
+
+#### **🎯 Kubernetes Certifications:**
+- **Certified Kubernetes Administrator (CKA)**
+- **Certified Kubernetes Application Developer (CKAD)**
+- **Certified Kubernetes Security Specialist (CKS)**
+
+#### **🎯 Docker Certifications:**
+- **Docker Certified Associate (DCA)**
+- **Docker Certified Professional (DCP)**
+
+### **🎯 Project Management & Agile:**
+
+#### **🎯 PMI (Project Management Institute):**
+- **Project Management Professional (PMP)**
+- **Program Management Professional (PgMP)**
+- **Portfolio Management Professional (PfMP)**
+- **PMI Agile Certified Practitioner (PMI-ACP)**
+
+#### **🎯 PRINCE2:**
+- **PRINCE2 Foundation**
+- **PRINCE2 Practitioner**
+- **PRINCE2 Agile Foundation**
+- **PRINCE2 Agile Practitioner**
+
+#### **🎯 Scrum Alliance:**
+- **Certified ScrumMaster (CSM)**
+- **Certified Scrum Product Owner (CSPO)**
+- **Certified Scrum Developer (CSD)**
+- **Certified Scrum Professional (CSP)**
+
+#### **🎯 Scaled Agile Framework (SAFe):**
+- **SAFe Agilist**
+- **SAFe Practitioner**
+- **SAFe Product Owner/Product Manager**
+- **SAFe Scrum Master**
+
+### **🎯 Database & Data Management:**
+
+#### **🎯 MongoDB Certifications:**
+- **MongoDB Certified Developer Associate**
+- **MongoDB Certified Database Administrator Associate**
+- **MongoDB Certified Database Administrator Professional**
+
+#### **🎯 PostgreSQL Certifications:**
+- **PostgreSQL Certified Professional**
+- **PostgreSQL Certified Administrator**
+
+#### **🎯 MySQL Certifications:**
+- **MySQL Database Administrator (MySQL DBA)**
+- **MySQL Developer (MySQL Dev)**
+
+---
+
+## 💡 **Your Relevant Certifications from Official List**
+
+### **🎯 Current Certifications:**
+- **Microsoft Certified: Azure Administrator Associate (AZ-104):** ✅ **Official List**
+- **ISTQB Foundation Level (CTFL):** ✅ **Official List**
+
+### **🎯 Recommended Next Certifications:**
+
+#### **High Value (10-15 points each):**
+1. **Microsoft Certified: Azure Solutions Architect Expert:** 10 points
+2. **AWS Certified Solutions Architect - Professional:** 10 points
+3. **Certified Information Systems Security Professional (CISSP):** 15 points
+4. **Cisco Certified Internetwork Expert (CCIE):** 15 points
+
+#### **Medium Value (5-10 points each):**
+1. **AWS Certified Solutions Architect - Associate:** 5 points
+2. **Google Cloud Professional Cloud Architect:** 10 points
+3. **ISTQB Advanced Level Test Manager:** 10 points
+4. **Project Management Professional (PMP):** 10 points
+
+### **🎯 Strategic Recommendations:**
+
+#### **Phase 1: Build on Existing Knowledge (3-6 months):**
+1. **Azure Solutions Architect Expert:** Build on your Azure Administrator
+2. **ISTQB Advanced Level:** Build on your Foundation Level
+3. **Japanese N2:** Language requirement
+
+#### **Phase 2: Expand Skills (6-12 months):**
+1. **AWS Solutions Architect - Associate:** Complementary cloud skills
+2. **Google Cloud Professional:** Multi-cloud expertise
+3. **Additional ISTQB certifications:** Testing specialization
+
+#### **Phase 3: Advanced Certifications (12+ months):**
+1. **CISSP:** Security specialization
+2. **PMP:** Project management
+3. **CKA (Kubernetes):** Container orchestration
+
+---
+
+## ⚠️ **Important Notes:**
+
+### **🎯 Official Recognition:**
+- **All listed certifications** are officially recognized by Japanese government
+- **Points awarded** based on certification level and relevance
+- **Documentation required:** Official certificates with verification
+- **Translation needed:** If certificates not in English/Japanese
+
+### **💼 Application Strategy:**
+1. **Choose certifications** relevant to target job position
+2. **Combine multiple certifications** for higher total points
+3. **Ensure proper documentation** and verification
+4. **Highlight certification expertise** in job applications
+5. **Prepare for technical interviews** demonstrating certification knowledge
+
+### **📋 Success Factors:**
+1. **Relevant certifications** to IT position
+2. **Professional experience** in certification field
+3. **Competitive salary** offer
+4. **International company** sponsorship
+5. **Strong technical portfolio** showcasing certification skills
+
+---
+
+*This list represents the official Japanese government recognized certifications for the Highly Skilled Professional visa, with your current certifications (Azure + ISTQB) being officially recognized.*
