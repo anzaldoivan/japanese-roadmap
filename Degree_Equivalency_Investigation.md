@@ -1060,14 +1060,15 @@
 - **Duration:** 1-5 years (renewable)
 
 #### **🎓 Educational Requirements:**
-- **Minimum:** High school diploma OR equivalent
-- **Preferred:** Bachelor's degree or higher
-- **Alternative:** 10+ years of relevant work experience
+- **Option 1:** Bachelor's degree + 3+ years experience
+- **Option 2:** High school diploma + 10+ years experience
+- **Your case:** Bachelor's degree (Licenciatura) + 5 years experience ✅
 - **Assessment:** More flexible than specialist visas
 
 #### **💼 Work Experience Requirements:**
-- **Minimum:** 3+ years of relevant experience
-- **Your case:** 5 years (✅ Meets requirement)
+- **Minimum:** 10+ years of relevant experience (if no degree)
+- **With degree:** 3+ years of relevant experience
+- **Your case:** 5 years + degrees (✅ Meets requirement)
 - **Field relevance:** Must match job position
 - **Assessment:** Work experience can compensate for education
 
@@ -1090,22 +1091,22 @@
 #### **⚠️ Position-Specific Requirements:**
 
 ##### **Software Developer:**
-- **Education:** High school + programming skills OR degree
-- **Experience:** 3+ years programming experience
+- **Education:** Bachelor's degree OR high school + 10+ years experience
+- **Experience:** 3+ years programming experience (with degree)
 - **Skills:** Programming languages, frameworks, tools
-- **Your profile:** ✅ **Qualifies with 5 years experience**
+- **Your profile:** ✅ **Qualifies with Licenciatura + 5 years experience**
 
 ##### **QA Engineer:**
-- **Education:** High school + testing knowledge OR degree
-- **Experience:** 3+ years testing experience
+- **Education:** Bachelor's degree OR high school + 10+ years experience
+- **Experience:** 3+ years testing experience (with degree)
 - **Skills:** Testing methodologies, tools, ISTQB certification
-- **Your profile:** ✅ **Qualifies with ISTQB + 5 years experience**
+- **Your profile:** ✅ **Qualifies with Licenciatura + ISTQB + 5 years experience**
 
 ##### **Cloud Infrastructure Engineer:**
-- **Education:** High school + cloud skills OR degree
-- **Experience:** 3+ years cloud experience
+- **Education:** Bachelor's degree OR high school + 10+ years experience
+- **Experience:** 3+ years cloud experience (with degree)
 - **Skills:** Cloud platforms (Azure, AWS), infrastructure
-- **Your profile:** ✅ **Qualifies with Azure certification + experience**
+- **Your profile:** ✅ **Qualifies with Licenciatura + Azure certification + 5 years experience**
 
 ### **🎯 Company Requirements:**
 
