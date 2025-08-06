@@ -5,16 +5,15 @@
 ### **🎯 Your Profile Details:**
 - **Primary Degree:** Diseñador y Programador de Simuladores Virtuales
   - **Duration:** 3 years
-  - **Type:** Technical/Professional degree
-  - **Institution:** Argentine educational system
-  - **Ministry Resolution:** RESOL-2022-2366-GCABA-MEDGC
-  - **Previous Resolution:** Res. 294/SSPLINED/2018 - Ministerio de Educación
+  - **Type:** Technical/Professional degree (Técnico Superior)
+  - **Institution:** DaVinci University
+  - **Field:** Game Development and Programming
 
-- **Bachelor's Degree:** Licenciatura en Comunicación Digital e Interactiva
+- **Potential Bachelor's Degree:** Licenciatura en Comunicación Digital e Interactiva
   - **Duration:** 4 years total (3 + 1 year articulation)
   - **Type:** University degree (Licenciatura)
   - **Institution:** Universidad Católica Argentina
-  - **Articulation:** +1 year after technical degree
+  - **Status:** ⚠️ **Not completed yet**
   - **Field:** Digital and Interactive Communication
 
 - **Work Experience:** Software Developer/QA Engineer
@@ -1062,15 +1061,16 @@
 #### **🎓 Educational Requirements:**
 - **Option 1:** Bachelor's degree + 3+ years experience
 - **Option 2:** High school diploma + 10+ years experience
-- **Your case:** Bachelor's degree (Licenciatura) + 5 years experience ✅
-- **Assessment:** More flexible than specialist visas
+- **Your case:** 3-year technical degree + 5 years experience ⚠️
+- **Assessment:** May need evaluation or additional experience
 
 #### **💼 Work Experience Requirements:**
 - **Minimum:** 10+ years of relevant experience (if no degree)
-- **With degree:** 3+ years of relevant experience
-- **Your case:** 5 years + degrees (✅ Meets requirement)
+- **With Bachelor's degree:** 3+ years of relevant experience
+- **With 3-year technical degree:** ⚠️ May need 7+ years experience
+- **Your case:** 5 years + 3-year technical degree ⚠️
 - **Field relevance:** Must match job position
-- **Assessment:** Work experience can compensate for education
+- **Assessment:** May need additional experience or degree evaluation
 
 ---
 
@@ -1368,3 +1368,192 @@
 ---
 
 *Regular work visa is definitely possible for IT industry positions, with your experience and certifications providing strong qualifications for various IT roles in Japan.*
+
+---
+
+## 🎯 **Work Visa Requirements for Your Profile**
+
+### **📋 Your Current Situation:**
+- **Education:** 3-year technical degree (Diseñador y Programador de Simuladores Virtuales)
+- **Experience:** 5 years as Software Developer/QA Engineer
+- **Certifications:** Azure AZ-104 + ISTQB FL
+- **Status:** ⚠️ **May need additional experience or evaluation**
+
+### **🎓 Educational Requirements Analysis:**
+
+#### **Option 1: Bachelor's Degree + 3+ Years Experience**
+- **Your case:** ❌ **No Bachelor's degree completed**
+- **Status:** Does not qualify for this pathway
+
+#### **Option 2: High School + 10+ Years Experience**
+- **Your case:** ❌ **Only 5 years experience**
+- **Status:** Does not qualify for this pathway
+
+#### **Option 3: 3-Year Technical Degree + Experience**
+- **Your case:** ⚠️ **5 years experience (may need more)**
+- **Status:** May qualify with evaluation or additional experience
+
+---
+
+## 🎯 **Digital Communication Degree for IT Developer Positions**
+
+### **📚 If You Complete the Licenciatura:**
+
+#### **Degree Details:**
+- **Field:** Digital Communication and Interactive Media
+- **Duration:** 4 years (Licenciatura)
+- **Relevance to IT:** ⚠️ **Limited direct relevance**
+
+#### **🎯 Application for IT Developer Positions:**
+
+##### **✅ Advantages:**
+- **Bachelor's degree:** Meets minimum educational requirement
+- **Digital communication:** Relevant to modern software development
+- **Interactive media:** Applicable to web development and UX
+- **4-year degree:** Qualifies for regular work visa
+
+##### **⚠️ Challenges:**
+- **Field mismatch:** Communication vs Software Development
+- **Technical skills:** Degree doesn't focus on programming
+- **Job requirements:** May need to demonstrate technical skills separately
+- **Competition:** Other candidates may have CS/Engineering degrees
+
+#### **💡 Strategic Approach with Communication Degree:**
+
+##### **Target Positions:**
+1. **Frontend Developer** (web development + communication)
+2. **UX/UI Developer** (design + development)
+3. **Digital Marketing Developer** (communication + programming)
+4. **Content Management Developer** (communication + technical skills)
+
+##### **Application Strategy:**
+1. **Emphasize technical skills** from work experience
+2. **Highlight programming** and development experience
+3. **Use certifications** (Azure + ISTQB) to demonstrate technical expertise
+4. **Build portfolio** showcasing technical projects
+5. **Target companies** that value combined skills
+
+---
+
+## 🎯 **Current Profile Analysis (3-Year Technical Degree)**
+
+### **📊 Qualification Assessment:**
+
+#### **✅ What Works:**
+- **Technical degree:** In relevant field (software development)
+- **Work experience:** 5 years in software development/QA
+- **Professional certifications:** Azure + ISTQB
+- **Skills match:** Directly applicable to IT positions
+
+#### **⚠️ Potential Issues:**
+- **3-year degree:** May not meet 4-year requirement
+- **Experience:** May need 7+ years instead of 5
+- **Degree evaluation:** May require official assessment
+- **Competition:** Other candidates may have 4-year degrees
+
+### **🎯 Recommended Strategies:**
+
+#### **Strategy 1: Degree Evaluation (Recommended)**
+**Process:**
+1. **Submit 3-year technical degree** to JASSO for evaluation
+2. **Request assessment** as equivalent to 4-year degree
+3. **Use evaluation results** to determine visa eligibility
+4. **Plan application** based on evaluation outcome
+
+**Success Factors:**
+- **Technical content:** Software development focus
+- **Practical skills:** Programming and development
+- **Work experience:** 5 years relevant experience
+- **Professional certifications:** Azure + ISTQB
+
+#### **Strategy 2: Additional Experience**
+**Requirements:**
+- **Target:** 7+ years of relevant experience
+- **Timeline:** 2 more years of work experience
+- **Focus:** Software development and cloud infrastructure
+- **Certifications:** Additional technical certifications
+
+#### **Strategy 3: Complete Licenciatura**
+**Requirements:**
+- **Complete:** 1 additional year of study
+- **Field:** Digital Communication
+- **Application:** Use for regular work visa
+- **Strategy:** Emphasize technical skills from experience
+
+---
+
+## 🏢 **Target Companies by Strategy**
+
+### **🎯 Strategy 1: Degree Evaluation Companies**
+- **International companies:** Microsoft, Amazon, Google
+- **Cloud companies:** Azure-focused companies
+- **Startups:** More flexible with requirements
+- **Consulting firms:** May accept evaluated degrees
+
+### **🎯 Strategy 2: Additional Experience Companies**
+- **All IT companies:** After reaching 7+ years experience
+- **Senior positions:** Higher salary potential
+- **Management roles:** Career advancement opportunities
+
+### **🎯 Strategy 3: Communication Degree Companies**
+- **Digital marketing companies:** Communication + technical skills
+- **Web development companies:** Frontend and UX roles
+- **Content companies:** Digital media and development
+- **International companies:** More flexible with degree fields
+
+---
+
+## 💡 **Immediate Recommendations**
+
+### **🎯 Best Approach for Your Current Profile:**
+
+#### **Phase 1: Degree Evaluation (Months 1-3)**
+1. **Submit technical degree** to JASSO for evaluation
+2. **Request assessment** as equivalent to 4-year degree
+3. **Use evaluation results** to plan visa strategy
+4. **Prepare portfolio** showcasing technical skills
+
+#### **Phase 2: Job Search (Months 2-4)**
+1. **Target international companies** (more flexible)
+2. **Emphasize technical skills** and experience
+3. **Highlight certifications** (Azure + ISTQB)
+4. **Apply for positions** matching your skills
+
+#### **Phase 3: Backup Planning (Months 3-6)**
+1. **Consider completing Licenciatura** if evaluation fails
+2. **Plan for additional experience** if needed
+3. **Explore alternative visa** pathways
+4. **Network with Japanese** IT professionals
+
+### **📋 Action Plan:**
+1. **Start degree evaluation** immediately (low cost, high value)
+2. **Build strong technical portfolio** showcasing programming skills
+3. **Target international IT companies** first
+4. **Consider completing Licenciatura** as backup plan
+5. **Use evaluation results** to determine best visa strategy
+
+---
+
+## ⚠️ **Important Considerations**
+
+### **🎯 Key Success Factors:**
+1. **Strong technical portfolio** demonstrating programming skills
+2. **Professional certifications** (Azure + ISTQB) strengthen application
+3. **Relevant work experience** in software development/QA
+4. **Degree evaluation** showing equivalence to 4-year degree
+5. **Company sponsorship** from reputable employer
+
+### **💼 Alternative Pathways:**
+1. **Complete Licenciatura** (1 year additional study)
+2. **Gain additional experience** (2 more years)
+3. **Target communication-focused** IT positions
+4. **Consider student visa** → work visa pathway
+
+### **📊 Success Probability:**
+- **High:** With degree evaluation showing equivalence
+- **Medium:** With communication degree + technical skills
+- **Low:** With current profile without evaluation
+
+---
+
+*Your 3-year technical degree may qualify for work visas with proper evaluation, and completing the Licenciatura would provide additional options for IT positions in Japan.*
