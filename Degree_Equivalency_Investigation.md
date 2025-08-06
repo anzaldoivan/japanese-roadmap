@@ -354,9 +354,9 @@
 ##### **1. Engineer Visa (技術・人文知識・国際業務):**
 **Degree Requirements:**
 - **Primary:** Engineering, computer science, or technical degrees
-- **Your technical degree:** ✅ **Diseñador y Programador de Simuladores Virtuales**
-- **Your communication degree:** ⚠️ **May not qualify for Engineer category**
-- **Assessment:** Technical degree is relevant, communication degree is not
+- **Your technical degree:** ⚠️ **May not qualify - 3-year technical degree**
+- **Your communication degree:** ❌ **Does not qualify for Engineer category**
+- **Assessment:** Technical degree may need evaluation, communication degree does not qualify
 
 ##### **2. Specialist in Humanities Visa:**
 **Degree Requirements:**
@@ -374,17 +374,18 @@
 
 #### **Option 1: Engineer Visa (Using Technical Degree)**
 **Requirements:**
-- **Degree:** Technical degree (✅ Your 3-year technical degree)
+- **Degree:** Engineering degree (⚠️ Your 3-year technical degree may need evaluation)
 - **Experience:** 5+ years in relevant field (✅ Software Developer/QA Engineer)
 - **Job:** Engineering/technical position
 
 **Advantages:**
-- ✅ Technical degree is relevant
+- ⚠️ Technical degree may qualify with evaluation
 - ✅ Work experience matches
 - ✅ Certifications strengthen application
 
 **Considerations:**
-- ⚠️ May need to emphasize technical degree over communication degree
+- ⚠️ 3-year technical degree may not meet 4-year requirement
+- ⚠️ May need additional evaluation or work experience compensation
 - ⚠️ Job must be clearly engineering/technical in nature
 
 #### **Option 2: Specialist in Humanities (Using Communication Degree)**
@@ -491,36 +492,184 @@
 
 ---
 
-## ⚠️ **Important Considerations**
+## ⚠️ **Technical Degree Qualification for Engineer Visa**
 
-### **🎯 Key Factors for Success:**
+### **🎯 Engineer Visa Requirements:**
 
-#### **Engineer Visa:**
-1. **Job must be clearly engineering/technical**
-2. **Emphasize technical degree and experience**
-3. **Highlight technical certifications**
-4. **Target engineering-focused companies**
+#### **Standard Requirements:**
+- **Degree:** 4-year Bachelor's degree in engineering or related field
+- **Your technical degree:** 3-year technical degree
+- **Assessment:** ⚠️ **May not meet minimum requirement**
 
-#### **Specialist in Humanities:**
-1. **Job must be communication/service-related**
-2. **Emphasize communication degree and skills**
-3. **Highlight digital communication expertise**
-4. **Target communication-focused companies**
+#### **Alternative Pathways:**
 
-### **💼 Application Strategy:**
+##### **Pathway 1: Work Experience Compensation**
+- **Requirement:** 10+ years of relevant work experience
+- **Your experience:** 5 years (❌ Does not meet requirement)
+- **Assessment:** Not eligible for this pathway
 
-#### **Dual Approach:**
-1. **Apply for engineering positions** using technical background
-2. **Apply for communication positions** using communication background
-3. **Let the job offer determine** which visa category to use
-4. **Prepare documents** for both visa types
+##### **Pathway 2: Degree Evaluation**
+- **Process:** Submit degree for evaluation by Japanese authorities
+- **Evaluation criteria:** Course content, credit hours, institution recognition
+- **Your degree:** May be evaluated as equivalent to 4-year degree
+- **Assessment:** ⚠️ **Case-by-case evaluation required**
 
-#### **Document Flexibility:**
-- **Have both degrees translated** and ready
-- **Prepare different resume versions** (technical vs communication focus)
-- **Highlight relevant experience** based on job type
-- **Use appropriate certifications** for each application
+##### **Pathway 3: Combined Degree + Experience**
+- **Your profile:** 3-year technical degree + 5 years experience
+- **Total:** 8 years of education + experience
+- **Assessment:** ⚠️ **May qualify with strong portfolio and certifications**
+
+### **📋 Degree Evaluation Process:**
+
+#### **Step 1: Document Preparation**
+- [ ] **Official transcript** with course descriptions
+- [ ] **Degree certificate** (apostilled)
+- [ ] **Credit hours** breakdown
+- [ ] **Course syllabus** (detailed descriptions)
+- [ ] **Institution recognition** documents
+
+#### **Step 2: Evaluation Services**
+- [ ] **JASSO evaluation** (Japanese government)
+- [ ] **University evaluation** (if applying to specific institutions)
+- [ ] **Professional association** evaluation
+- [ ] **Immigration Services Agency** evaluation
+
+#### **Step 3: Supporting Evidence**
+- [ ] **Work experience** certificates
+- [ ] **Professional certifications** (Azure + ISTQB)
+- [ ] **Portfolio** of technical projects
+- [ ] **Industry recognition** or awards
+
+### **🎯 Realistic Assessment:**
+
+#### **✅ What Works in Your Favor:**
+1. **Technical degree** in software development field
+2. **5 years relevant experience** in software development/QA
+3. **Professional certifications** (Azure + ISTQB)
+4. **Strong technical skills** demonstrated through work
+5. **Growing demand** for software developers in Japan
+
+#### **⚠️ Potential Challenges:**
+1. **3-year degree** vs 4-year requirement
+2. **Technical degree** vs engineering degree
+3. **Field relevance** evaluation
+4. **Institution recognition** in Japan
+
+#### **💡 Mitigation Strategies:**
+1. **Strong portfolio** of technical projects
+2. **Industry certifications** to demonstrate expertise
+3. **Target companies** that are more flexible with requirements
+4. **Consider Specialist in Humanities** visa as backup
+5. **Work with immigration** specialists for evaluation
 
 ---
 
-*This analysis shows that your degrees can qualify for different visa categories depending on the job type and how you present your qualifications.*
+## 🎯 **Updated Visa Strategy Recommendations**
+
+### **🎯 Primary Strategy: Engineer Visa (With Evaluation)**
+**Requirements:**
+- **Degree evaluation:** Submit technical degree for evaluation
+- **Work experience:** 5+ years (✅ Met)
+- **Certifications:** Azure + ISTQB (✅ Strengthen application)
+- **Portfolio:** Strong technical projects (Required)
+
+**Success Factors:**
+1. **Strong technical portfolio** demonstrating software development skills
+2. **Professional certifications** showing expertise
+3. **Relevant work experience** in software development
+4. **Company sponsorship** from reputable employer
+5. **Degree evaluation** showing equivalence to 4-year degree
+
+### **🎯 Secondary Strategy: Specialist in Humanities**
+**Requirements:**
+- **Degree:** Communication degree (✅ Licenciatura qualifies)
+- **Work experience:** 5+ years (✅ Met)
+- **Job:** Communication, marketing, or service-related position
+
+**Advantages:**
+- ✅ **Guaranteed qualification** with Licenciatura
+- ✅ **Broader range** of companies
+- ✅ **Faster application** process
+- ⚠️ **Lower salary potential** than engineering roles
+
+### **🎯 Tertiary Strategy: Highly Skilled Professional**
+**Current Points:** 45/70
+**To reach 70 points:**
+- **Japanese N2:** +10 points
+- **English proficiency:** +10 points
+- **Additional certification:** +5 points
+- **Total:** 70 points
+
+---
+
+## 🏢 **Updated Company Targeting Strategy**
+
+### **🎯 Engineer Visa Companies (With Evaluation):**
+- **Microsoft Japan** (Azure focus - your certification helps)
+- **Cloud infrastructure companies** (Azure expertise valuable)
+- **Software development companies** (technical skills required)
+- **QA/testing companies** (ISTQB certification valuable)
+- **International companies** (more flexible with requirements)
+
+### **🎯 Specialist in Humanities Companies:**
+- **Digital marketing agencies**
+- **UX/UI design companies**
+- **Content creation companies**
+- **International communication firms**
+- **Multinational companies**
+
+### **🎯 Highly Skilled Professional Companies:**
+- **Major international companies** (Google, Amazon, Microsoft)
+- **High-tech startups**
+- **Research institutions**
+- **Consulting firms**
+
+---
+
+## 💡 **Immediate Action Plan**
+
+### **🎯 Month 1-2: Degree Evaluation**
+1. **Gather all degree documents** and get them translated
+2. **Prepare detailed course descriptions** and credit breakdown
+3. **Submit for JASSO evaluation** (Japanese government)
+4. **Prepare supporting evidence** (work experience, certifications)
+
+### **🎯 Month 3-4: Portfolio Development**
+1. **Build strong technical portfolio** with Azure and testing projects
+2. **Create GitHub profile** with code samples
+3. **Document technical achievements** and projects
+4. **Prepare technical resume** highlighting engineering skills
+
+### **🎯 Month 5-6: Job Search**
+1. **Target international companies** first (more flexible)
+2. **Apply for both engineering and communication positions**
+3. **Let job offers determine** visa strategy
+4. **Work with immigration specialists** for evaluation
+
+---
+
+## ⚠️ **Important Considerations**
+
+### **🎯 Key Success Factors:**
+1. **Strong technical portfolio** demonstrating software development skills
+2. **Professional certifications** (Azure + ISTQB) strengthen application
+3. **Relevant work experience** in software development/QA
+4. **Degree evaluation** showing equivalence to 4-year degree
+5. **Company sponsorship** from reputable employer
+
+### **💼 Alternative Pathways:**
+1. **Student visa** → Language school → Work visa
+2. **Working holiday visa** (if eligible) → Work visa
+3. **Business visa** → Work visa (for entrepreneurs)
+4. **Family visa** → Work visa (if applicable)
+
+### **📋 Document Preparation:**
+1. **Complete degree documentation** with translations
+2. **Detailed course descriptions** and credit breakdown
+3. **Professional experience** certificates
+4. **Portfolio of projects** and achievements
+5. **Industry certifications** and training records
+
+---
+
+*This updated analysis shows that while your technical degree may qualify for Engineer visa with evaluation, you have strong backup options with your communication degree and certifications.*
