@@ -56,13 +56,18 @@
 #### **Educational Requirements:**
 - **Minimum:** Bachelor's degree (4 years) OR equivalent
 - **Your degree:** ✅ **Licenciatura (4-year university degree)**
-- **Assessment:** ✅ **Meets minimum requirement**
+- **Assessment:** ⚠️ **May require field relevance evaluation**
 
-#### **Degree Strengths:**
-1. **University degree:** Licenciatura meets visa requirements
-2. **Combined skills:** Technical + Communication background
-3. **Relevant field:** Digital communication aligns with software development
-4. **International recognition:** Universidad Católica Argentina is well-recognized
+#### **Degree Analysis:**
+1. **University degree:** ✅ Licenciatura meets minimum requirement
+2. **Field relevance:** ⚠️ Digital Communication vs Engineering/IT
+3. **Combined background:** Technical degree + Communication degree
+4. **International recognition:** ✅ Universidad Católica Argentina is well-recognized
+
+#### **Visa Category Considerations:**
+- **Engineer visa:** Requires engineering/technical degree
+- **Specialist in Humanities:** Accepts broader degree fields
+- **International Services:** Accepts business/communication degrees
 
 ### **🎓 Highly Skilled Professional Visa**
 
@@ -340,29 +345,182 @@
 
 ---
 
-## ⚠️ **Important Considerations**
+## 🎯 **Visa Category Analysis for Your Degrees**
 
-### **🎯 Visa Success Factors:**
-1. **Strong technical portfolio** with Azure and testing projects
-2. **Relevant work experience** (5 years ✅)
-3. **Professional certifications** (Azure + ISTQB ✅)
-4. **Bachelor's degree** (Licenciatura ✅)
-5. **Company sponsorship** from reputable employer
+### **🔧 Engineer/Specialist in Humanities/International Services Visa**
 
-### **💼 Career Development:**
-1. **Continuous learning** in cloud technologies
-2. **Advanced testing** certifications
-3. **Japanese language** improvement
-4. **Professional networking** in Japanese tech community
-5. **Industry conference** participation
+#### **Visa Categories and Degree Requirements:**
 
-### **🏠 Living Considerations:**
-1. **Cloud/QA roles** often offer good work-life balance
-2. **International companies** more flexible with work culture
-3. **Remote work** possibilities in cloud roles
-4. **Professional development** budgets common
-5. **Conference attendance** opportunities
+##### **1. Engineer Visa (技術・人文知識・国際業務):**
+**Degree Requirements:**
+- **Primary:** Engineering, computer science, or technical degrees
+- **Your technical degree:** ✅ **Diseñador y Programador de Simuladores Virtuales**
+- **Your communication degree:** ⚠️ **May not qualify for Engineer category**
+- **Assessment:** Technical degree is relevant, communication degree is not
+
+##### **2. Specialist in Humanities Visa:**
+**Degree Requirements:**
+- **Primary:** Humanities, social sciences, business, or related fields
+- **Your communication degree:** ✅ **Licenciatura en Comunicación Digital e Interactiva**
+- **Assessment:** Communication degree qualifies for this category
+
+##### **3. International Services Visa:**
+**Degree Requirements:**
+- **Primary:** Business, international relations, or service-related fields
+- **Your communication degree:** ✅ **Digital communication qualifies**
+- **Assessment:** Communication degree qualifies for this category
+
+### **🎯 Recommended Visa Strategy:**
+
+#### **Option 1: Engineer Visa (Using Technical Degree)**
+**Requirements:**
+- **Degree:** Technical degree (✅ Your 3-year technical degree)
+- **Experience:** 5+ years in relevant field (✅ Software Developer/QA Engineer)
+- **Job:** Engineering/technical position
+
+**Advantages:**
+- ✅ Technical degree is relevant
+- ✅ Work experience matches
+- ✅ Certifications strengthen application
+
+**Considerations:**
+- ⚠️ May need to emphasize technical degree over communication degree
+- ⚠️ Job must be clearly engineering/technical in nature
+
+#### **Option 2: Specialist in Humanities (Using Communication Degree)**
+**Requirements:**
+- **Degree:** Humanities/social sciences degree (✅ Your Licenciatura)
+- **Experience:** 5+ years in relevant field
+- **Job:** Communication, marketing, or service-related position
+
+**Advantages:**
+- ✅ Communication degree qualifies
+- ✅ Digital communication is relevant to IT
+- ✅ Broader job opportunities
+
+**Considerations:**
+- ⚠️ May need to target different types of companies
+- ⚠️ Salary might be lower than engineering positions
+
+#### **Option 3: International Services (Using Communication Degree)**
+**Requirements:**
+- **Degree:** Business/service-related degree (✅ Your Licenciatura)
+- **Experience:** 5+ years in relevant field
+- **Job:** International business or service position
+
+**Advantages:**
+- ✅ Communication degree qualifies
+- ✅ Digital communication is international in nature
+- ✅ Good for multinational companies
+
+### **🏢 Job Market Analysis by Visa Category:**
+
+#### **Engineer Visa Jobs:**
+- **Software Engineer**
+- **Cloud Infrastructure Engineer**
+- **QA Engineer**
+- **DevOps Engineer**
+- **Systems Engineer**
+
+#### **Specialist in Humanities Jobs:**
+- **Digital Marketing Specialist**
+- **User Experience Designer**
+- **Content Strategist**
+- **Communication Specialist**
+- **Digital Media Manager**
+
+#### **International Services Jobs:**
+- **International Business Development**
+- **Global Marketing Manager**
+- **International Communication Specialist**
+- **Digital Strategy Consultant**
 
 ---
 
-*This analysis shows your profile is well-positioned for IT work visas in Japan, with strong technical skills and relevant certifications.*
+## 💡 **Strategic Recommendations**
+
+### **🎯 Best Approach for Your Profile:**
+
+#### **Primary Strategy: Engineer Visa**
+**Rationale:**
+- Your **technical degree** qualifies for Engineer category
+- Your **work experience** is in software development/QA
+- Your **certifications** (Azure + ISTQB) are technical
+- **Higher salary potential** in engineering roles
+
+**Application Strategy:**
+1. **Emphasize technical degree** in applications
+2. **Highlight technical work experience**
+3. **Focus on engineering/technical positions**
+4. **Use technical certifications** as supporting evidence
+
+#### **Secondary Strategy: Specialist in Humanities**
+**Rationale:**
+- Your **communication degree** qualifies
+- **Digital communication** is relevant to modern IT
+- **Broader range** of companies
+- **Good for UX/UI** and digital marketing roles
+
+### **📋 Document Preparation Strategy:**
+
+#### **For Engineer Visa:**
+- **Primary degree:** Technical degree (Diseñador y Programador de Simuladores Virtuales)
+- **Supporting degree:** Communication degree (shows additional skills)
+- **Work experience:** Emphasize technical aspects
+- **Certifications:** Technical certifications (Azure + ISTQB)
+
+#### **For Specialist in Humanities:**
+- **Primary degree:** Communication degree (Licenciatura)
+- **Supporting degree:** Technical degree (shows technical background)
+- **Work experience:** Emphasize communication aspects
+- **Certifications:** Both technical and communication skills
+
+### **🏢 Company Targeting Strategy:**
+
+#### **Engineer Visa Companies:**
+- **Microsoft Japan** (Azure focus)
+- **Cloud infrastructure companies**
+- **Software development companies**
+- **QA/testing companies**
+
+#### **Specialist in Humanities Companies:**
+- **Digital marketing agencies**
+- **UX/UI design companies**
+- **Content creation companies**
+- **International communication firms**
+
+---
+
+## ⚠️ **Important Considerations**
+
+### **🎯 Key Factors for Success:**
+
+#### **Engineer Visa:**
+1. **Job must be clearly engineering/technical**
+2. **Emphasize technical degree and experience**
+3. **Highlight technical certifications**
+4. **Target engineering-focused companies**
+
+#### **Specialist in Humanities:**
+1. **Job must be communication/service-related**
+2. **Emphasize communication degree and skills**
+3. **Highlight digital communication expertise**
+4. **Target communication-focused companies**
+
+### **💼 Application Strategy:**
+
+#### **Dual Approach:**
+1. **Apply for engineering positions** using technical background
+2. **Apply for communication positions** using communication background
+3. **Let the job offer determine** which visa category to use
+4. **Prepare documents** for both visa types
+
+#### **Document Flexibility:**
+- **Have both degrees translated** and ready
+- **Prepare different resume versions** (technical vs communication focus)
+- **Highlight relevant experience** based on job type
+- **Use appropriate certifications** for each application
+
+---
+
+*This analysis shows that your degrees can qualify for different visa categories depending on the job type and how you present your qualifications.*
