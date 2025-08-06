@@ -413,7 +413,22 @@
    - **Website:** https://www.osaka-u.ac.jp/
 
 #### **Private Schools:**
-1. **YMCA Japanese Language School (Osaka)**
+1. **ECC Japanese Language Institute (Osaka)**
+   - **Tuition:** ¥650,000-750,000/year
+   - **Dormitory:** Available (¥45,000-60,000/month)
+   - **Visa Support:** ✅ Full support
+   - **Programs:** Intensive Japanese, Business Japanese, JLPT preparation
+   - **Class Size:** 10-15 students
+   - **Location:** Central Osaka (near Namba station)
+   - **Website:** https://www.eccjls.com/
+   - **Special Features:** 
+     - 40+ years of experience
+     - Small class sizes
+     - Cultural activities included
+     - Job placement assistance
+     - Free conversation practice with Japanese students
+
+2. **YMCA Japanese Language School (Osaka)**
    - **Tuition:** ¥600,000/year
    - **Dormitory:** Available (¥45,000/month)
    - **Visa Support:** ✅ Full support
