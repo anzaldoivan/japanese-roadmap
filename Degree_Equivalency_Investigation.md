@@ -1390,8 +1390,9 @@
 - **Status:** Does not qualify for this pathway
 
 #### **Option 3: 3-Year Technical Degree + Experience**
-- **Your case:** ⚠️ **5 years experience (may need more)**
+- **Your case:** ⚠️ **5 years experience (case-by-case evaluation)**
 - **Status:** May qualify with evaluation or additional experience
+- **Note:** No specific year requirement, depends on evaluation
 
 ---
 
@@ -1447,7 +1448,7 @@
 
 #### **⚠️ Potential Issues:**
 - **3-year degree:** May not meet 4-year requirement
-- **Experience:** May need 7+ years instead of 5
+- **Experience:** Case-by-case evaluation (no specific year requirement)
 - **Degree evaluation:** May require official assessment
 - **Competition:** Other candidates may have 4-year degrees
 
@@ -1468,10 +1469,11 @@
 
 #### **Strategy 2: Additional Experience**
 **Requirements:**
-- **Target:** 7+ years of relevant experience
-- **Timeline:** 2 more years of work experience
+- **Target:** More experience to strengthen application
+- **Timeline:** Continue gaining relevant experience
 - **Focus:** Software development and cloud infrastructure
 - **Certifications:** Additional technical certifications
+- **Note:** No specific year requirement, case-by-case evaluation
 
 #### **Strategy 3: Complete Licenciatura**
 **Requirements:**
@@ -1491,7 +1493,7 @@
 - **Consulting firms:** May accept evaluated degrees
 
 ### **🎯 Strategy 2: Additional Experience Companies**
-- **All IT companies:** After reaching 7+ years experience
+- **All IT companies:** With additional experience
 - **Senior positions:** Higher salary potential
 - **Management roles:** Career advancement opportunities
 
@@ -1545,7 +1547,7 @@
 
 ### **💼 Alternative Pathways:**
 1. **Complete Licenciatura** (1 year additional study)
-2. **Gain additional experience** (2 more years)
+2. **Gain additional experience** (continue working in field)
 3. **Target communication-focused** IT positions
 4. **Consider student visa** → work visa pathway
 
