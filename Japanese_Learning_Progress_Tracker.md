@@ -96,26 +96,73 @@
 
 ---
 
+### **Day 3 - Class 3: Verb Conjugation Basics**
+
+#### **📝 Assessment Results:**
+
+**Verb Recognition Test:**
+- ✅ **Ru-verbs:** たべる、みる、ねる - Perfect identification
+- ✅ **U-verbs:** いく、のむ、かく - Perfect identification
+- ✅ **Verb type classification:** 100% accuracy
+
+**Conjugation Exercise Results:**
+- ✅ **Negative Ru-verbs:** たべない、みない - Perfect conjugation
+- ✅ **Negative U-verbs:** いかない、のまない - Perfect conjugation
+- ✅ **Conjugation patterns:** 100% accuracy
+
+**Sentence Building Results:**
+- ✅ **Basic sentences:** わたしはごはんをたべる - Perfect structure
+- ✅ **Particle usage:** を (object), に (destination) - Correct usage
+- ✅ **Verb selection:** Appropriate verb choice for each context
+
+**Past Tense Exercise Results:**
+- ✅ **Ru-verb past:** たべた、みた - Perfect conjugation
+- ✅ **U-verb past:** いった、のんだ - Perfect conjugation
+- ⚠️ **Minor confusion:** のむ vs のる (drink vs ride), かく vs かう (write vs buy)
+
+**Grammar Patterns Mastered:**
+- ✅ **Verb classification:** Ru-verbs vs U-verbs
+- ✅ **Present tense:** Basic verb forms
+- ✅ **Negative conjugation:** ない form patterns
+- ✅ **Past tense:** た form patterns
+- ✅ **Particle usage:** を (object), に (destination), は (topic)
+
+#### **📚 Material References Used:**
+- **Tae Kim:** Chapter 3.5 (Verbs) - page 43-50
+- **Tae Kim:** Chapter 3.3 (Particles) - page 33-37
+
+#### **🎯 Achievements:**
+- ✅ **Verb conjugation patterns** mastered (present, negative, past)
+- ✅ **Particle usage** with verbs (を、に、は)
+- ✅ **Sentence structure** with verbs and objects
+- ✅ **Vocabulary expansion** with practical verbs and nouns
+- ⚠️ **Minor verb confusion** to review (のむ vs のる, かく vs かう)
+
+---
+
 ## 📈 **Progress Summary**
 
 ### **Strengths:**
 - ✅ Excellent hiragana recognition
 - ✅ Quick grammar pattern learning
 - ✅ Good understanding of basic sentence structure
-- ✅ Correct use of particles は and が
+- ✅ Correct use of particles は、が、を、に
 - ✅ Solid understanding of adjective patterns
-- ✅ Good vocabulary building
+- ✅ **NEW:** Verb conjugation patterns mastered
+- ✅ **NEW:** Past tense conjugation understood
+- ✅ **NEW:** Object and destination particle usage
 
 ### **Areas for Improvement:**
 - ⚠️ Katakana long vowels (ー)
 - ⚠️ Katakana small characters (ッ、ャ、ュ、ョ)
 - ⚠️ Minor typing errors (double characters)
+- ⚠️ **NEW:** Verb confusion (のむ vs のる, かく vs かう)
 
 ### **Next Focus:**
-- Katakana review exercises
-- More vocabulary building
+- Negative past tense conjugation
+- More complex sentence structures
+- Additional verb vocabulary
 - Practical application exercises
-- Verb conjugation introduction
 
 ---
 
@@ -126,12 +173,14 @@
 - [x] Learn basic state-of-being grammar
 - [x] Understand particles は and が
 - [x] Master adjective patterns (い vs な)
+- [x] **NEW:** Learn verb conjugation patterns
+- [x] **NEW:** Master present, negative, and past tense
 - [ ] Complete katakana review
 - [ ] Build basic vocabulary
 
 ### **Medium-term (Month 1):**
-- [ ] Master all basic particles
-- [ ] Learn verb conjugations
+- [x] Master basic particles (は、が、を、に)
+- [x] Learn verb conjugations
 - [ ] Build vocabulary to 500+ words
 - [ ] Start reading simple manga with furigana
 
@@ -150,8 +199,9 @@
 - [x] Chapter 3.2 (State-of-Being) - Completed
 - [x] Chapter 3.3 (Particles は/が) - Completed
 - [x] Chapter 3.4 (Adjectives) - Completed
-- [ ] Chapter 3.5 (Verb Basics) - Next
-- [ ] Chapter 4.1 (Polite Form) - Planned
+- [x] **NEW:** Chapter 3.5 (Verb Basics) - Completed
+- [ ] Chapter 4.1 (Polite Form) - Next
+- [ ] Chapter 4.2 (Te-form) - Planned
 
 ### **Minna No Nihongo I:**
 - [ ] Chapter 1 - Planned
@@ -174,17 +224,27 @@
 
 ---
 
-## 📊 **Day 2 Assessment Summary**
+## 📊 **Day 3 Assessment Summary**
 
 ### **Grammar Mastery:**
-- **State-of-Being:** ✅ 10/10
-- **Particles:** ✅ 10/10
-- **Adjectives:** ✅ 9/10 (minor typing error)
-- **Vocabulary:** ✅ 8/10
+- **Verb Classification:** ✅ 10/10
+- **Present Tense:** ✅ 10/10
+- **Negative Conjugation:** ✅ 10/10
+- **Past Tense:** ✅ 9/10 (minor verb confusion)
+- **Particle Usage:** ✅ 10/10
+- **Vocabulary:** ✅ 9/10
 
-### **Overall Day 2 Score: 37/40 (92.5%)**
+### **Overall Day 3 Score: 58/60 (96.7%)**
 
-**Excellent progress!** You've mastered the fundamental grammar patterns and are ready to move to more complex structures.
+**Outstanding progress!** You've mastered verb conjugation patterns and are ready for more complex grammar structures.
+
+---
+
+## 🎯 **Next Session Focus:**
+- Negative past tense conjugation
+- Te-form introduction
+- More vocabulary building
+- Practical sentence construction
 
 ---
 
