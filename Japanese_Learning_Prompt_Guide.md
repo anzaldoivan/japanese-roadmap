@@ -1,3 +1,15 @@
+---
+
+## 📚 **Daily Recap Policy**
+
+- **Every class begins with a short multiple choice recap exam** on previous subjects (3-5 questions, 1-2 minutes)
+- **Recap covers:** Key grammar, vocabulary, and particles from prior lessons
+- **Purpose:** Reinforce memory, identify weak points, and ensure retention
+- **Format:** Multiple choice, no answers provided until after student response
+- **Feedback:** Immediate correction and explanation after student submits answers
+
+---
+
 # 🎯 Japanese Learning Prompt Guide
 
 ## 📚 **Teaching Philosophy & Approach**
