@@ -445,4 +445,11 @@ Implementation notes:
 - Prioritize subconscious verbal fluency; perfect grammar is secondary.
 - Defer kanji depth until speaking comfort; kana-first approach.
 
+## ✅ Detailed Feedback Policy (Required)
+- For each item, provide:
+  - "Your answer: ..." with ✅/❌
+  - If ❌, add "Correct answer: ..."
+  - Brief "Explanation: ..." (particle/tense/conjugation/usage)
+- Use this policy for quizzes and Exercises A–D.
+
 *This prompt guide ensures consistent, effective Japanese learning sessions with proper material references, mistake tracking, and progress monitoring.*
