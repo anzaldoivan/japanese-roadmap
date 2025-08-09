@@ -249,3 +249,61 @@
 ---
 
 *This tracker will be updated daily with progress, achievements, and next steps.*
+
+---
+
+### **Day 4 - Class 4: Negative Past + Te-form**
+
+#### **📝 Recap Quiz (Multiple Choice):**
+- Q1 を (object) → ✅ Correct
+- Q2 たべない (negative) → ✅ Correct
+- Q3 みる (Ru-verb) → ✅ Correct
+- Q4 のむ past → ❌ Answered のまない → ✅ のんだ
+- Q5 destination particle → ❌ Answered を → ✅ に（わたしはがっこうにいく）
+- **Score:** 3/5
+
+#### **📝 Assessment Results:**
+
+**Negative Past Tense:**
+- ✅ Conjugation: たべない→たべなかった／いかない→いかなかった／のまない→のまなかった／みない→みなかった
+- ✅ Sentences: パンをたべなかった／学校にいかなかった／お茶をのまなかった／映画をみなかった
+
+**Te-form (て形) Introduction:**
+- ✅ たべる → たべて（Ru-verb: る→て）
+- ⚠️ いく → いって（例外；not いて）
+- ⚠️ のむ → のんで（む→んで；not のんて）
+- ⚠️ みる → みて（not 見て when practicing kana-only)
+- ✅ かく → かいて（く→いて）
+
+**Usage Checks:**
+- Requests: まってください／あけてください（corrected あけって→あけて）
+- Sequence: ごはんをたべて、みずをのむ（corrected たべって→たべて）
+- Progressive: いま、にほんごをべんきょうしている（corrected べんきようすって→べんきょうしている）
+
+#### **📚 Material References Used:**
+- **Tae Kim:** Chapter 3.5 (Verb Basics; Negative Past) - pp. 43–50
+- **Tae Kim:** Chapter 4.2 (Te-form) - pp. 61–65
+
+#### **🎯 Achievements:**
+- ✅ Negative past tense conjugation mastered in drills
+- ✅ Te-form patterns learned; key exception いく→いって fixed
+- ✅ Correct particle usage reinforced（を／に）
+
+#### **⚠️ Minor Issues to Review:**
+- Te-form groups: む→んで, く→いて; exception いく→いって
+- Kana small characters: べんきょう（ょ is small）
+
+---
+
+## 📊 **Day 4 Assessment Summary**
+- **Recap Quiz:** 3/5 (review past tense のむ, destination に)
+- **Negative Past:** ✅ 10/10
+- **Te-form Basics:** ✅ 8/10 (exception/row patterns to solidify)
+- **Requests/Sequence/Progressive:** ✅ 8/10 (minor kana/te fixes)
+
+### **Next Session Focus:**
+- Te-form applications (requests, sequences, progressive) fluency
+- Polite form ます／ません／ました／ませんでした（Tae Kim 4.1）
+- Quick recap MC on te-form patterns and particles
+
+---
