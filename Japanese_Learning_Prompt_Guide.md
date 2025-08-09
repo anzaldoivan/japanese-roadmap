@@ -232,6 +232,13 @@ Implementation notes:
 
 ---
 
+## 📦 Bundled Exercise Delivery (Message Economy)
+- Deliver Exercises A–D together in a single response per class.
+- Use the user's preferred compact formatting (no inline answers).
+- Reference current batch file (e.g., `Vocabulary_Batch_01.md`).
+
+---
+
 ## ⚠️ **Mistake Tracking System**
 
 ### **Common Mistake Categories:**
