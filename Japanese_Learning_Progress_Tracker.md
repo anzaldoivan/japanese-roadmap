@@ -318,3 +318,18 @@
 - **Target:** 4000 most common words
 - **Learned (tracked in batches):** 0 / 4000
 - **Current batch:** Pending (to be added per session)
+
+---
+
+### **Day 5 - Class 5: Vocabulary Batch Start + Formatting Update**
+
+#### **Plan:**
+- Begin 4000-word objective with `Vocabulary_Batch_01.md` (20 words)
+- Apply new exercise formatting (blank lines between items)
+- Integrate vocabulary into structures (A–D drills)
+
+#### **Counters:**
+- Vocabulary learned this batch: 0/20 (to be filled after checking)
+- Global vocabulary: 0/4000 → (update after checking)
+
+---

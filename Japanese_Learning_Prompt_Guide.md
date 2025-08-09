@@ -193,6 +193,13 @@ Make sentences with new vocabulary:
 
 ---
 
+## ✍️ **Exercise Formatting Rule (Day 5+)**
+- Insert a blank line between exercise items for readability.
+- Keep one item per line; no inline answers.
+- Provide clear section headings (A/B/C...) and concise prompts.
+
+---
+
 ## ⚠️ **Mistake Tracking System**
 
 ### **Common Mistake Categories:**
