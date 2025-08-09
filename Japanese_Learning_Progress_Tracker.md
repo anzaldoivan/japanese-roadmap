@@ -329,7 +329,7 @@
 - Integrate vocabulary into structures (A–D drills)
 
 #### **Counters:**
-- Vocabulary learned this batch: 0/20 (to be filled after checking)
-- Global vocabulary: 0/4000 → (update after checking)
+- Vocabulary learned this batch: 17/20 (pending fixes: きいろ／お茶／うち)
+- Global vocabulary: 17/4000
 
 ---

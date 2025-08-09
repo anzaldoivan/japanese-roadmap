@@ -227,3 +227,23 @@ Next Review Focus:
 #### **Kana Typing:**
 - **Mistake:** べんきよう (large よ)
 - **Correct:** べんきょう (small よ: ょ)
+
+---
+
+### **Day 5 - Class 5: Vocabulary Romaji (Batch 01)**
+
+#### **Romaji Mistakes:**
+1. **きいろ**
+   - **Mistake:** kiiru
+   - **Correct:** kiiro
+   - **Pattern:** Long vowel: いい → ii (not iu)
+
+2. **お茶**
+   - **Mistake:** oocha
+   - **Correct:** ocha
+   - **Pattern:** お + 茶 reads おちゃ (ocha), not おおちゃ
+
+3. **うち**
+   - **Mistake:** usa
+   - **Correct:** uchi
+   - **Pattern:** ち = chi; さ = sa (different consonants)
