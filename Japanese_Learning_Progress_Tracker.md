@@ -307,3 +307,14 @@
 - Quick recap MC on te-form patterns and particles
 
 ---
+
+## 📊 **JLPT Percentage Tracking (Live)**
+- **N5:** Grammar 45% | Vocabulary 1% | Listening 5%
+- **N4:** Grammar 0% | Vocabulary 0% | Listening 0%
+- **N3:** Grammar 0% | Vocabulary 0% | Listening 0%
+- **N2:** Grammar 0% | Vocabulary 0% | Listening 0%
+
+## 🧮 **Vocabulary Progress**
+- **Target:** 4000 most common words
+- **Learned (tracked in batches):** 0 / 4000
+- **Current batch:** Pending (to be added per session)

@@ -321,4 +321,60 @@
 
 ---
 
+## 🔁 Dynamic Roadmap Update Policy
+- This roadmap is updated after every class based on the latest entries in `Japanese_Learning_Progress_Tracker.md` and `Japanese_Learning_Mistakes_Tracker.md`.
+- Each update will adjust goals, add targeted drills, and revise JLPT knowledge percentages.
+- Focus principle: subconscious verbal fluency over perfect grammar; use what you know.
+- Kanji deferred: prioritize speaking, listening, hiragana/katakana first; add kanji gradually later.
+
+---
+
+## 📈 JLPT Knowledge Percentages (Live)
+
+| Level | Grammar | Vocabulary | Listening | Notes |
+|------|---------|-----------|-----------|-------|
+| N5   | 45%     | 1%        | 5%        | Polite form/particles set/counters pending |
+| N4   | 0%      | 0%        | 0%        | Not started |
+| N3   | 0%      | 0%        | 0%        | Not started |
+| N2   | 0%      | 0%        | 0%        | Not started |
+
+- Vocabulary also tracked towards global target of 4000 words (see below).
+
+---
+
+## 🧠 Method Objective
+- Learn the basics of grammar (current phase) and immediately apply them with high-frequency vocabulary.
+- Build to 4000 most commonly used words for subconscious fluency.
+- Group vocabulary by themes for practical usage; practice with structures already learned.
+
+---
+
+## 📚 Vocabulary Objective: 4000 Most Common Words
+
+### Grouping Strategy (Examples)
+- People & daily life: family, work, school
+- Food & drink: meals, groceries, restaurants
+- Places & movement: home, school, city, transport
+- Time & routine: days, times, frequency
+- Descriptions: colors, size, feelings
+- Actions: core verbs (eat, drink, go, come, see, do, make)
+
+### Daily Workflow
+1. Deliver at least 20 new words per session (kana + English + kanji peek).
+2. Provide an attached batch file (e.g., `Vocabulary_Batch_XX.md`) with grouped words and drills.
+3. Use current grammar to practice (translation, sentence building, te-form chains, negatives/past).
+4. Log mistakes to `Japanese_Learning_Mistakes_Tracker.md` and update roadmap percentages.
+
+### Milestones
+- 0 → 500 words: survival fluency
+- 500 → 1500 words: comfortable daily conversation (N5/N4)
+- 1500 → 3000 words: independent interaction (N3)
+- 3000 → 4000 words: strong functional fluency (towards N2 speaking)
+
+---
+
+## 🧩 Practice Integration
+- All new vocabulary will be woven into sentence patterns already learned (だ/です, は/が/を/に, verbs present/negative/past, te-form basics).
+- Exercises include: write romaji for kana + English, build sentences, connect actions with 〜て, form negatives/past, and short Q&A.
+
 *This roadmap focuses on practical skills you'll actually use. Writing practice is minimal and focused on digital communication rather than handwriting.*

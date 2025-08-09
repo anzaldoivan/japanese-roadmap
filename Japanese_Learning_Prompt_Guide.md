@@ -383,4 +383,20 @@ Make sentences with new vocabulary:
 
 ---
 
+## 📦 **Vocabulary Delivery Policy**
+- Provide at least **20 words** per class (kana + English; kanji as optional peek).
+- Attach/save a file per batch: `Vocabulary_Batch_XX.md` with groups, meanings, and drills.
+- Exercises must prompt: romaji input for each item, plus structure drills using learned grammar.
+
+## 📊 **Dynamic Progress & JLPT Tracking**
+- After every class, update:
+  - `Japanese_Learning_Progress_Tracker.md` with grammar covered, vocab counts, listening tasks
+  - `Japanese_Learning_Roadmap_Practical.md` JLPT percentages (Grammar/Vocab/Listening)
+  - `Japanese_Learning_Mistakes_Tracker.md` with new patterns
+- Roadmap adapts after each session based on tracked results.
+
+## 🧠 **Fluency Philosophy (Enforced)**
+- Prioritize subconscious verbal fluency; perfect grammar is secondary.
+- Defer kanji depth until speaking comfort; kana-first approach.
+
 *This prompt guide ensures consistent, effective Japanese learning sessions with proper material references, mistake tracking, and progress monitoring.*
