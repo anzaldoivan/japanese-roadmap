@@ -189,3 +189,41 @@ Next Review Focus:
 ---
 
 *This mistakes tracker will be updated with each new mistake and used for targeted review sessions.*
+
+---
+
+### **Day 4 - Class 4: Te-form + Negative Past**
+
+#### **Te-form Mistakes:**
+1. **Ru-verb te-form:**
+   - **Mistake:** あけって
+   - **Correct:** あけて
+   - **Pattern:** Ru-verbs drop る and add て (あける → あけて)
+
+2. **U-verb te-form (む row):**
+   - **Mistake:** のんて
+   - **Correct:** のんで
+   - **Pattern:** む・ぶ・ぬ → んで (のむ → のんで)
+
+3. **U-verb te-form (く row):**
+   - **Mistake:** かて
+   - **Correct:** かいて
+   - **Pattern:** く → いて (かく → かいて) ※ いく is exception → いって
+
+4. **Exception (いく):**
+   - **Reminder:** いく → いって (not いて)
+
+#### **Sequence with 〜て (…て、…):**
+- **Mistake:** たべって（ごはんをたべて、みずをのむ が正しい）
+- **Correct examples:**
+  - ごはんをたべて、みずをのむ
+  - うちにかえって、ねる
+
+#### **Progressive (〜ている) Mistakes:**
+- **Mistake:** 行って べんきようすって
+- **Correct:** べんきょうしている（いま、にほんごをべんきょうしている）
+- **Pattern:** する → して； 〜ている = be doing/ongoing action
+
+#### **Kana Typing:**
+- **Mistake:** べんきよう (large よ)
+- **Correct:** べんきょう (small よ: ょ)
