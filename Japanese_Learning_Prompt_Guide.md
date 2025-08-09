@@ -193,10 +193,42 @@ Make sentences with new vocabulary:
 
 ---
 
-## ✍️ **Exercise Formatting Rule (Day 5+)**
-- Insert a blank line between exercise items for readability.
-- Keep one item per line; no inline answers.
-- Provide clear section headings (A/B/C...) and concise prompts.
+## 🧭 Preferred Exercise Template (Day 5+)
+
+- Keep the previous compact section style.
+- Apply line-by-line listing to Exercise A only.
+
+Exercise A — Write romaji (no answers shown)
+1- {kana_1} ({english_1}) ({kanji_peek_1})
+2- {kana_2} ({english_2}) ({kanji_peek_2})
+3- {kana_3} ({english_3}) ({kanji_peek_3})
+...
+20- {kana_20} ({english_20}) ({kanji_peek_20})
+
+Exercise B — Translate (use structures you know; plain form fine)
+1) [EN sentence]
+2) [EN sentence]
+3) [EN sentence]
+4) [EN sentence]
+5) [EN sentence]
+6) [EN sentence]
+7) [EN sentence]
+8) [EN sentence]
+
+Exercise C — Te-form sequence
+1) [EN sentence]
+2) [EN sentence]
+
+Exercise D — Quick Q&A (answer briefly)
+1) [JP prompt]
+2) [JP prompt]
+3) [JP prompt]
+4) [JP prompt]
+
+Implementation notes:
+- Populate Exercise A from current `Vocabulary_Batch_XX.md` (kana + english + kanji peek).
+- Exercises B–D should reuse the same batch vocabulary with structures from current grammar.
+- Do not show answers in prompts; check after user responds.
 
 ---
 
